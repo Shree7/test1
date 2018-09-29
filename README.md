@@ -9,3 +9,8 @@ Hi, my *chosen* name is **Srilakshmi Shivakumar**. I completed my undergraduate 
 ### _Interests_
   - Reading novels
   - Spending time with <span style="color:blue">[dogs]</span>
+
+
+> The overriding design goal for Markdown's
+> formatting syntax is to make it as readable
+> as possible. The idea is that a
