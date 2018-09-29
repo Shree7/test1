@@ -10,7 +10,7 @@ Hi, my *chosen* name is **Srilakshmi Shivakumar**. I completed my undergraduate 
 ### _Interests_
   - Reading novels
 ~~~~
-- Spending time with _dogs_
+  - Spending time with _dogs_
 ~~~~
 
 
