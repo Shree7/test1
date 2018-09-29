@@ -7,7 +7,8 @@ Hi, my *chosen* name is **Srilakshmi Shivakumar**. I completed my undergraduate 
 > Firmware development and Operating Systems.
 >
 
-### _Interests_
+~~~~
+### Interests
   - Reading novels
   - Spending time with *dogs*
-  
+~~~~  
