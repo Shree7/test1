@@ -9,18 +9,5 @@ Hi, my *chosen* name is **Srilakshmi Shivakumar**. I completed my undergraduate 
 
 ### _Interests_
   - Reading novels
-~~~~
-  - Spending time with _dogs_
-~~~~
-
-
-> The overriding design goal for Markdown's
->
-> formatting syntax is to make it as readable
->
-> as possible. The idea is that a
-
-
- Blockquotes are very handy in email to emulate reply text.
- This line is part of the same quote.
-```
+  - Spending time with *dogs*
+  
