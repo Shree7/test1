@@ -21,5 +21,4 @@ Identify me
 ![img_3608](https://user-images.githubusercontent.com/35706182/46250601-b3274f80-c3f2-11e8-9249-352d30b3f57a.JPG)
 
 
-![img_6322](https://user-images.githubusercontent.com/35706182/46250542-bf5edd00-c3f1-11e8-85bf-8e315858fb9f.jpg)
 
