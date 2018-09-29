@@ -15,6 +15,6 @@ Hi, my *chosen* name is **Srilakshmi Shivakumar**. I completed my undergraduate 
   - Spending time with _*dogs*_
   
 ~~~~
-<center>Identify me</center>
+Identify me
 ~~~~
 ![img_3608](https://user-images.githubusercontent.com/35706182/46250601-b3274f80-c3f2-11e8-9249-352d30b3f57a.JPG)
