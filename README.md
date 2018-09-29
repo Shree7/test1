@@ -16,7 +16,7 @@ Hi, my *chosen* name is **Srilakshmi Shivakumar**. I completed my undergraduate 
   
 
 ~~~~
-Identify me as
+Identify me
 ~~~~
 
 ![img_6322](https://user-images.githubusercontent.com/35706182/46250542-bf5edd00-c3f1-11e8-85bf-8e315858fb9f.jpg)
