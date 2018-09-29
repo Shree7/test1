@@ -6,7 +6,7 @@ Hi, my *chosen* name is **Srilakshmi Shivakumar**. I completed my undergraduate 
 
 > Pursue masters in Software and Systems programming
 >
-> Firmware development and Operating Systems.
+> Firmware development and Operating Systems
 >
 > Tech fellow
 
